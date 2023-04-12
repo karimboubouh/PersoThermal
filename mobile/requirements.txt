@@ -1,0 +1,7 @@
+numpy==1.23.5
+joblib~=1.2.0
+termcolor==2.1.1
+
+Kivy==2.1.0
+kivymd==1.1.1
+plyer==2.1.0
